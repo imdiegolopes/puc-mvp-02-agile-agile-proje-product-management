@@ -1,5 +1,15 @@
 # Proteção Fácil
 
+<p align="center">
+
+  <img src="https://i.imgur.com/ia4Cja4.png" alt="Logo" width="80" height="80">
+
+  <h3 align="center">Proteção Fácil</h3>
+  <p align="center">Cobertura para Perda, Danos e Roubo</p>
+</p>
+
+## O que é
+
 O projeto "Proteção Fácil" é uma solução desenvolvida para oferecer uma solução simples e eficaz de proteção de envio. Nosso objetivo é fornecer aos empreendedores online e aos clientes regulares de plataformas de comércio eletrônico uma maneira confiável de garantir a segurança de seus produtos durante o transporte.
 
 ## Sobre o Projeto

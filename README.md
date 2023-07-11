@@ -27,8 +27,8 @@ O aplicativo "Proteção Fácil" permite aos usuários aderir à proteção de e
 
 Entrega do MVP para o Sprint 2 do curso de pós-graduação em Engenharia de Software da PUC-Rio. Para esta entrega, os itens que serão entregues a seguir são:
 
-[x] Lean Inception detalhada no Miro, incluindo o MVP Canvas
-[x] Backlog do Produto, Definition of Ready e Definition of Done – incluindo ao menos um requisito não funcional 
-[x] Backlog da Sprint, com histórias de usuário detalhadas, estimadas e com critérios de aceitação
-[x] Protótipos de Interface
-[x] Vídeo de Demonstração - https://youtu.be/LoxNvmFIjU4
+- [x] Lean Inception detalhada no Miro, incluindo o MVP Canvas
+- [x] Backlog do Produto, Definition of Ready e Definition of Done – incluindo ao menos um requisito não funcional 
+- [x] Backlog da Sprint, com histórias de usuário detalhadas, estimadas e com critérios de aceitação
+- [x] Protótipos de Interface
+- [x] Vídeo de Demonstração - https://youtu.be/LoxNvmFIjU4

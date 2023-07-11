@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <img src="https://i.imgur.com/ia4Cja4.png" alt="Logo" width="80" height="80">
+  <img src="https://i.imgur.com/ia4Cja4.png" alt="Logo">
 
   <h3 align="center">Proteção Fácil</h3>
   <p align="center">Cobertura para Perda, Danos e Roubo</p>
